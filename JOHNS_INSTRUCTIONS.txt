@@ -21,4 +21,8 @@ I pressed F1 t get Command Palette
 
 Importatnt:
 Create a file like   index.html
-Use the source control icon on the left [3 circles with the count of changes)]
+Use the 'source control' icon on the left [3 circles with the count of changes)]
+
+--VS CodeInstalled Azure Static Web App extension
+The icon corr. to it looks like a Capital A ...half lighted
+use the Accounts & Tenants to login to azure: select tenant and subscription
