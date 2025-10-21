@@ -1,0 +1,24 @@
+These are the stpes that I followed:
+
+
+
+See the YOUTube video: 
+Create a Simple Website with Azure Static Web Apps and VS Code
+https://www.youtube.com/watch?v=-61Ox6QpTd8&list=PL1xexTshE3WON8NY-cI_-a_6zCzlJ9ud3&index=1&t=133s
+
+
+-- Github
+Create a Repository in Github... called static-web-app
+I added ReadMe.md to it.
+-- VS Code
+I installed Github Repositories
+
+
+I started VS Code on a blank folder
+I pressed F1 t get Command Palette
+> entered Remote Repository... Selected the static-web-app 
+
+
+Importatnt:
+Create a file like   index.html
+Use the source control icon on the left [3 circles with the count of changes)]
