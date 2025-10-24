@@ -11,6 +11,6 @@ function sendMail(){
     emailjs
         .send("service_ut8yjbw", "template_604bgh2", parms)
         .then(alert("Email Sent Successfully. Thank you!").catch(()=>alert("Email not sent!!")))
-        .then(window.location.href='ndex.html');
+        .then(window.location.href='index.html');
 
 }
