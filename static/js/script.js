@@ -9,3 +9,5 @@ function sendMail(){
     emailjs.send("service_ut8yjbw", "template_604bgh2", parms).then(alert("Email Sent Successfully. Thank you!"));
     window.location.href='index.html'
 }
+const form = document.getElementById("myform");
+form.addEventListener("submit", sendMail);
