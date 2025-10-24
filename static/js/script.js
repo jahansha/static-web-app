@@ -8,8 +8,8 @@ function sendMail(){
 
     };
 
-    emailjs.send("service_ut8yjbw", "template_604bgh2", parms).then(alert("Email Sent Successfully. Thank you!"));
+    emailjs
+        .send("service_ut8yjbw", "template_604bgh2", parms)
+        .then(alert("Email Sent Successfully. Thank you!").catch(()=>alert("Email not sent!!")));
     window.location.href='index.html'
 }
-const form = document.getElementById("myform");
-form.addEventListener("submit", sendMail);
