@@ -11,6 +11,7 @@ https://www.youtube.com/watch?v=-61Ox6QpTd8&list=PL1xexTshE3WON8NY-cI_-a_6zCzlJ9
 
 Create a Repository in Github... called static-web-app
 I added ReadMe.md to it.
+
 -- VS Code
 I installed Github Repositories
 
