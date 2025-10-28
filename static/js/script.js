@@ -11,11 +11,11 @@ function sendMail(){
     emailjs
         .send("service_qt2yn5g", "template_sw5nsin", parms)
         .then(alert("Email Sent Successfully. Thank you!").catch(()=>alert("Email not sent!!")))
-        .then(document.getElementById("contact-name").value='')
-        .then(document.getElementById("contact-email").value='')
-        .then(document.getElementById("contact-subject").value='')
-        .then(document.getElementById("contact-message").value='')
-        .then(window.location.href('index.html'));
+        .then(document.getElementById("contact-name").innerText='')
+        .then(document.getElementById("contact-email").innerText='')
+        .then(document.getElementById("contact-subject").innerText='')
+        .then(document.getElementById("contact-message").innerText='')
+      
    
 
 }
