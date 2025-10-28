@@ -9,12 +9,11 @@ function sendMail(){
     };
 
     emailjs
-        .send("service_ut8yjbw", "template_604bgh2", parms)
+        .send("service_qt2yn5g", "template_sw5nsin", parms)
         .then(alert("Email Sent Successfully. Thank you!").catch(()=>alert("Email not sent!!")))
         .then(document.getElementById("contact-name").value='')
         .then(document.getElementById("contact-email").value='')
         .then(document.getElementById("contact-subject").value='')
         .then(document.getElementById("contact-message").value='')
-    window.location.href='index.html'
-
+    window.location.href='index.html' 
 }
