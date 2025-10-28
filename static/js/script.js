@@ -17,4 +17,5 @@ function sendMail(){
         .then(document.getElementById("contact-message").value='')
         .then(redirectPage('index.html'));
    
+
 }
