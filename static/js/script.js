@@ -15,5 +15,6 @@ function sendMail(){
         .then(document.getElementById("contact-email").value='')
         .then(document.getElementById("contact-subject").value='')
         .then(document.getElementById("contact-message").value='')
-    window.location.href='index.html' 
+        .then(redirectPage('index.html'));
+   
 }
