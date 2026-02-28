@@ -19,3 +19,5 @@ Recommended: Use VSCode Live Server (Best for Frontend Apps)
 6- Open your project folder
 7-Right-click index.html
 8-Click "Open with Live Server"
+
+GOOD
