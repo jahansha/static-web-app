@@ -1,0 +1,9 @@
+C) Delete a file
+
+Best practice is to delete via VS Code Explorer (so Git tracks it cleanly).
+1-Explorer → right-click file → Delete.
+2-Source Control → file appears as Deleted under Changes.
+3- Stage (click +).
+4- Commit (e.g., Remove unused config).
+5-Push / Sync.
+Common mistake: deleting a file outside VS Code (File Explorer/Finder) is fine, but people forget to commit the deletion afterward.

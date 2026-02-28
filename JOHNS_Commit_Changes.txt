@@ -1,0 +1,9 @@
+B) Change (edit) an existing file
+1- Open the file from Explorer.
+2- Edit → save (Ctrl+S).
+3-Source Control → you’ll see the file under Changes.
+4- Click the file to review the diff (VS Code shows before/after).
+5- Stage the change (click +).
+6- Commit with a message (e.g., Fix navbar layout).
+7- Push / Sync.
+Common mistake: committing to the wrong branch (check branch name bottom-left before committing).
