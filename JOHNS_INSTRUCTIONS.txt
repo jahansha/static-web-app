@@ -17,7 +17,7 @@ I installed Github Repositories
 
 
 I started VS Code on a blank folder
-I pressed F1 t get Command Palette
+I pressed F1 t get Command Palettenpm started
 > entered Remote Repository... Selected the static-web-app 
 
 
