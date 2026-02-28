@@ -1,0 +1,15 @@
+A) Add a new file
+
+1- In Explorer (left sidebar) → right-click a folder → New File.
+2- Name it (e.g., src/foo.js) → press Enter.
+3- Edit and save (Ctrl+S).
+4- Go to Source Control (Ctrl+Shift+G)
+     You’ll see the new file under Changes (untracked).
+5- Stage it:
+    Click the + next to the file (or Stage All Changes).
+6- Commit:
+    Enter a commit message (e.g., Add foo module)
+    Click Commit (checkmark icon).
+7- Push / Sync:
+    Click Sync Changes (or Push) in Source Control.
+Common mistake: creating a file but forgetting to save it, then wondering why Git doesn’t show it.
