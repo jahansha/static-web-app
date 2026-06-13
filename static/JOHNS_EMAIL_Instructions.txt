@@ -1,0 +1,3 @@
+provider:
+emailjs.com
+my credentials: jarastoozad@gmail.com  S....K..._01
